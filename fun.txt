@@ -1,1 +1,25 @@
 “Hello world!” - said everyone, always
+This is a big change
+This change happened in the terminal.
+git status
+git add -A
+git commit -m "more awesome code"
+git init
+git rm -rf : remove stuff
+git log
+git pull
+git reset
+git branch
+git checkout -b dm7changes : makes a branch and moves into it
+
+Fork repo
+clone repo
+add
+commit
+push
+branch
+upstream to master
+merge conflicts
+manage vim to escape merge conflicts
+make Pull Request
+pull changes from master repo
